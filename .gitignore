@@ -6,6 +6,13 @@
 # Prerequisites
 *.d
 
+# Preprocess
+*.i
+
+# Compile
+*.s
+*.S
+
 # Object files
 *.o
 *.ko
