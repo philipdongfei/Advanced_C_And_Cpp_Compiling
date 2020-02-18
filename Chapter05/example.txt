@@ -1,0 +1,7 @@
+#generate static lib
+$ gcc -c first.c second.c
+$ ar rcs libstaticlib.a first.o second.o
+
+# static lib to dynamic lib
+$ ar -x <static library>.a
+
