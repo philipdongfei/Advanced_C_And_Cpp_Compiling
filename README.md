@@ -24,6 +24,7 @@
 
 ## Chapter 06
 [**Beginner's Guide To Linkers**](http://www.lurklurk.org/linkers/linkers.html)
+[**Name Mangling**](https://en.wikipedia.org/wiki/Name_mangling#How_different_compilers_mangle_the_same_functions)
 
 
 ## Chapter 07
