@@ -28,3 +28,7 @@
 
 
 ## Chapter 07
+
+[**ld**](https://linux.die.net/man/1/ld)
+[**Windows Runtime Dynamic Library Location Rules**](https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-library-search-order?redirectedfrom=MSDN)
+
