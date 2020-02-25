@@ -34,3 +34,7 @@
 [**ld**](https://linux.die.net/man/1/ld)
 [**Windows Runtime Dynamic Library Location Rules**](https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-library-search-order?redirectedfrom=MSDN)
 
+## Chapter 11
+[Understand Weak Symbols by Examples](https://winfred-lu.blogspot.com/2009/11/understand-weak-symbols-by-examples.html)
+[gcc weak symbols](https://www.witekio.com/blog/gcc-weak-symbols/)
+
