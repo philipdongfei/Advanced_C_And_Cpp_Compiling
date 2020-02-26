@@ -56,6 +56,11 @@
 [**addr2line**](https://linux.die.net/man/1/addr2line)
 [**lsof**](https://linux.die.net/man/8/lsof)
 
+## Chapter 14
+
+[**Dependency Walker**](http://dependencywalker.com/)
+
+
 
 
 
